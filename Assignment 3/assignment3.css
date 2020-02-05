@@ -1,0 +1,61 @@
+
+
+h1 {
+  color: #FFFFFF;
+  background-color: #99EFE7;
+}
+
+h2 {
+  color: #FFFFFF;
+  background-color: #99EFE7;
+}
+
+h3 {
+  color: #FFFFFF;
+  background-color: #99EFE7;
+}
+
+h4 {
+  color: #FFFFFF;
+  background-color: #99EFE7;
+}
+
+.spanstyle {
+color: #00FF00;
+}
+
+#divexample {
+color: #0000FF;
+background-color: #FFFFFF;
+}
+
+#specialid {
+  color: #B499EF;
+background-color: #EAD5AE;
+}
+
+.specialp {
+color: #E75D21;
+background-color: #E1BEAF;
+}
+
+a {
+  color: #E82316;
+}
+
+a:link {
+ color: #E82316;
+}
+
+a:visited {
+ color: #4AD820;
+}
+
+
+
+a:hover {
+ color: #E5E816;
+}
+
+
+<p id="specialid">This is a special paragraph</p>
