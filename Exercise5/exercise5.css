@@ -1,0 +1,35 @@
+
+
+
+h1{
+color: #FFFFFF;
+background-color: #BA55D3;
+}
+
+h2 {
+ color:purple;
+}
+
+#specialid {
+ background-color: #7CFC00;
+}
+
+#divexample {
+background-color: #BA55D3;
+}
+.spanstyle {
+color:yellow;
+}
+
+  h3 {
+    color:black;
+    background-color: #ffff00;
+    }
+  h4 {
+      color:white;
+      background-color: #008000;
+      }
+
+
+      a { color: #008000;
+text-decoration: :none
