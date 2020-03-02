@@ -1,0 +1,110 @@
+
+
+.borderbottom {
+  border-bottom: 4px solid #000000;
+  padding: 0 0 20px 0;
+}
+.imgbox {
+border:5px solid #000000;
+padding: 10px;
+background-color: #FFFFFF;
+}
+
+.imagefloat {
+width: 100px;
+float: left;
+margin: 20px
+padding-right: 10px;
+}
+
+.bold {
+  font-style: bold;
+}
+
+aside {
+  grid-column: span 1;
+}
+
+nav {
+  grid-column: span 2;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+
+nav li {
+  width: 200px;
+  display: inline-block;
+}
+
+nav li a {
+  display: block;
+  background-color: red;
+  border: 1px solid black;
+  padding: 1em;
+  color: white;
+  text-decoration: none;
+}
+
+nav li a:hover {
+  background-color: #660000;
+}
+
+h1 {
+  color: #FFFFFF;
+  background-color: #000000;
+  font-family: Helvetica;
+    font-size: 30px;
+}
+
+
+h2 {
+    font-family: Helvetica;
+    font-size: 20px;
+}
+
+.customtext {
+  font-family: Helvetica;
+    font-size: 30px;
+}
+
+p {
+  font-family: Georgia;
+}
+
+#boldness {
+font-weight: bold;
+}
+
+a {
+  color:#ff0000;
+}
+
+a:hover {
+  color: #8B0000;
+}
+
+body {
+  background-image: url(a62.png);
+  background-repeat: repeat;
+  background-position: top center;
+}
+
+.textjustify {
+  text-align: justify;
+}
+
+.textcenter {
+text-align: center;
+}
+
+footer {
+  color: #FFFFFF;
+  font-family: Verdana;
+  font-style: italic;
+  background-color: #FF0000;
+}
